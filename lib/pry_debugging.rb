@@ -3,5 +3,6 @@ def plus_two(num)
 	puts result
 	result
 	end
+	binding.pry
 	plus_two(3)
 	
